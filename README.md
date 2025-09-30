@@ -43,16 +43,16 @@ To deliver **actionable business insights** by answering:
 ## 📷 Preview
 
 * Overall Data :
- <img src="Overall_Data.png" alt="Overall Data" width="500"/>
+  <img src="Overall_Data.png" alt="Overall Data" width="600"/>
 
 * Furnitures :
-  ![Alt Text](Furnitures.png)
+  <img src="Furnitures.png" alt="Overall Data" width="600"/>
 
 * Office Supplies :
-  ![Alt Text](OfficeSupplies.png)
+  <img src="OfficeSupplies.png" alt="Overall Data" width="600"/>
 
 * Technology :
-  ![Alt Text](Technology.png)
+  <img src="Technology.png" alt="Overall Data" width="600"/>
 
 ---
 
