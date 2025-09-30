@@ -44,17 +44,23 @@ To deliver **actionable business insights** by answering:
 
 * Overall Data :
   <p align="left">
-  <img src="Overall_Data.png" alt="Overall Data" width="600">
+  <img src="Overall_Data.png" alt="Overall Data" width="500">
   </p>
 
 * Furnitures :
-  <img src="Furnitures.png" alt="Overall Data" width="600"/>
+  <p align="left">
+  <img src="Furnitures.png" alt="Overall Data" width="500">
+  </p>
 
 * Office Supplies :
-  <img src="OfficeSupplies.png" alt="Overall Data" width="600"/>
+  <p align="left">
+  <img src="OfficeSupplies.png" alt="Overall Data" width="500">
+  </p>
 
 * Technology :
-  <img src="Technology.png" alt="Overall Data" width="600"/>
+  <p align="left">
+  <img src="Technology.png" alt="Overall Data" width="500">
+  </p>
 
 ---
 
