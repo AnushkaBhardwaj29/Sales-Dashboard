@@ -46,12 +46,10 @@ To deliver **actionable business insights** by answering:
 
 ---
 
-## 🚀 How to Use 
+##  How to Use 
 
 1. Download the Excel file from this repository
 2. Open in Microsoft Excel/ Google Sheets
 3. Use slicers to explore and filter the dashboard
 
 ---
-
-💡 A great example of how Excel can turn raw data into **powerful business insights**.
