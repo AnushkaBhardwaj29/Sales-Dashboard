@@ -43,7 +43,7 @@ To deliver **actionable business insights** by answering:
 ## 📷 Preview
 
 * Overall Data :
-  ![Alt Text](images/Overall_Data.png)
+  ![Alt Text](Overall_Data.png)
 
 ---
 
