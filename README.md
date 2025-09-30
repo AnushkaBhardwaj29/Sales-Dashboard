@@ -43,7 +43,9 @@ To deliver **actionable business insights** by answering:
 ## 📷 Preview
 
 * Overall Data :
-  <img src="Overall_Data.png" alt="Overall Data" width="600"/>
+  <p align="left">
+  <img src="Overall_Data.png" alt="Overall Data" width="600">
+  </p>
 
 * Furnitures :
   <img src="Furnitures.png" alt="Overall Data" width="600"/>
