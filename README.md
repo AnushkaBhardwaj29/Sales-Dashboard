@@ -45,6 +45,15 @@ To deliver **actionable business insights** by answering:
 * Overall Data :
   ![Alt Text](Overall_Data.png)
 
+* Furnitures :
+  ![Alt Text](Furnitures.png)
+
+* Office Supplies :
+  ![Alt Text](OfficeSupplies.png)
+
+* Technology :
+  ![Alt Text](Technology.png)
+
 ---
 
 ##  How to Use 
